@@ -33,19 +33,6 @@ The project was built to automate my own trading journal and reduce repetitive m
 ---
 ## Screenshots
 
-### Trade analysis
-
-![Trade analysis](screenshots/trade-analysis.png)
-
-### Saved trade
-
-![Saved trade](screenshots/trade-result.png)
-### Trade analysis
-
-![Trade Analysis](telegram_screenshot_1_cropped.png)
-
----
-
 ### AI verdict
 
 ![AI Verdict](telegram_screenshot_2_cropped.png)

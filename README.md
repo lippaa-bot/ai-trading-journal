@@ -31,9 +31,15 @@ The project was built to automate my own trading journal and reduce repetitive m
 - JavaScript
 
 ---
-
 ## Screenshots
 
+### Trade analysis
+
+![Trade analysis](screenshots/trade-analysis.png)
+
+### Saved trade
+
+![Saved trade](screenshots/trade-result.png)
 ### Trade analysis
 
 ![Trade Analysis](telegram_screenshot_1_cropped.png)

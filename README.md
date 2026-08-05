@@ -31,13 +31,18 @@ The project was built to automate my own trading journal and reduce repetitive m
 - JavaScript
 
 ---
+
 ## Screenshots
+
+### Trade analysis
+
+![Trade analysis](screenshots/trade-analysis.png)
 
 ### AI verdict
 
-![AI Verdict](telegram_screenshot_2_cropped.png)
+![AI Verdict](screenshots/trade-result.png)
 
----
+
 
 ## Project Architecture
 
